@@ -395,22 +395,22 @@ Automatically keeps track of employee objects.
 </div>
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║        🏢 EMPLOYEE MANAGEMENT SYSTEM         ║
-║                                              ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  1️⃣  Add Employee                           ║
-║  2️⃣  Add Manager                            ║
-║  3️⃣  Add Developer                          ║
-║  4️⃣  Update Employee                        ║
-║  5️⃣  Delete Employee                        ║
-║  6️⃣  Display Employees                      ║
-║  7️⃣  Check Subclass                         ║
-║  8️⃣  Exit                                   ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+ ══════════════════════════════════════════════
+                                               
+         🏢 EMPLOYEE MANAGEMENT SYSTEM         
+                                               
+ ══════════════════════════════════════════════
+                                              
+   1️⃣  Add Employee                           
+   2️⃣  Add Manager                            
+   3️⃣  Add Developer                          
+   4️⃣  Update Employee                        
+   5️⃣  Delete Employee                        
+   6️⃣  Display Employees                      
+   7️⃣  Check Subclass                         
+   8️⃣  Exit                                   
+                                              
+  ═════════════════════════════════════════════
 ```
 
 ---
@@ -556,7 +556,7 @@ Automatically keeps track of employee objects.
 ## 📥 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Employee-Management-System.git
+git clone https://github.com/venyaa05/Employee-Management-System.git
 ```
 
 ---
