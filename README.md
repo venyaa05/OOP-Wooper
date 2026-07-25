@@ -1,4 +1,4 @@
-[# OOP-Wrapper
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Employee%20Management%20System&fontColor=00F5FF&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Python%20Object-Oriented%20Programming%20Project&descAlignY=58"/>
@@ -6,7 +6,7 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+Employee+Management+System;Built+with+Python+Object-Oriented+Programming;Inheritance+%7C+Encapsulation+%7C+Polymorphism;CLI+Based+CRUD+Application;Portfolio+Ready+Python+Project"/>
-](https://github.com/venyaa05/OOP-Wrapper)
+(https://github.com/venyaa05/OOP-Wrapper)
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
