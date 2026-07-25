@@ -949,18 +949,6 @@ Feel free to use, modify, and distribute it for educational purposes.
 
 ---
 
-### 📬 Connect With Me
-
-> Add your GitHub, LinkedIn, or Portfolio links here.
-
-```text
-GitHub   : https://github.com/yourusername
-LinkedIn : https://linkedin.com/in/yourprofile
-Email    : your.email@example.com
-```
-
----
-
 # ⭐ SUPPORT
 
 If you found this project useful:
